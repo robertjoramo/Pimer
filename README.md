@@ -1,7 +1,7 @@
 # Pimer
 A small pomodoro timer
 
-Download link (Windows): https://rebrand.ly/pimer
+Download: [Windows](https://rebrand.ly/pimer)
 
 ### *This file is a work in progress.*
 ---
