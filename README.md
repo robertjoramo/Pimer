@@ -13,3 +13,5 @@ Install location is "Users\[USER]\AppData\Local\Pimer"
 Not possible to choose install directory.
 
 App icon is the default electron app icon.
+
+Only Windows available at the moment.
