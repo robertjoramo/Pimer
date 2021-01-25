@@ -1,7 +1,7 @@
 # Pimer
 A small pomodoro timer
 
-### This file is a work in progress.
+### *This file is a work in progress.*
 ---
 
 #### Notes:
