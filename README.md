@@ -1,4 +1,7 @@
-# Pimer
+#This project is no longer maintained!
+
+
+## Pimer
 A small pomodoro timer
 
 Download: [Windows](https://rebrand.ly/pimer)
